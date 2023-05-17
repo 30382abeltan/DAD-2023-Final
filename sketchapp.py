@@ -4,7 +4,7 @@ import requests
 import os  
 from PIL import Image 
 
-openai.api_key = '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'
+openai.api_key = '*YOUR OPENAI API KEY HERE*'
 
 # set a directory to save DALL-E images to (parts of this taken from Github DALL-E tutorial and modified to fit my app)
 image_dir = "images"
