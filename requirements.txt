@@ -1,0 +1,11 @@
+import streamlit as st
+import openai  
+import requests  
+import os  
+from PIL import Image 
+
+pip install streamlit
+pip install openai
+pip install requests
+pip install os
+pup install PIL
